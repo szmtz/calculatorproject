@@ -9,3 +9,12 @@ div {
   }
 
   
+.clear {
+  width: 50%;
+  background-color: orange;
+}
+
+.submit {
+  width: 50%; 
+  background-color: lightgreen;
+}
