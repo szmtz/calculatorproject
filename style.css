@@ -1,0 +1,11 @@
+div {
+    border: 2px solid gray;
+    font-size: 0; 
+  }
+
+  button {
+    width: 25%; 
+    height: 35px; 
+  }
+
+  
